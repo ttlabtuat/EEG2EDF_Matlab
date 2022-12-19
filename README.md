@@ -25,14 +25,12 @@ _EEG_to_edf.m_: main function to convert the format.
 _gui.m_: GUI function.  
 
 _blockEdfWrite.m, blockEdfLoad.m_  
-Using for write and read the .edf file, can be find in:  
-https://www.mathworks.com/matlabcentral/fileexchange/46339-blockedfwrite  
-https://www.mathworks.com/matlabcentral/fileexchange/42784-blockedfload  
+Using for write and read the .edf file, can be find in [blockEdfWrite](https://www.mathworks.com/matlabcentral/fileexchange/46339-blockedfwrite), [blockEdfLoad](https://www.mathworks.com/matlabcentral/fileexchange/42784-blockedfload).  
+
 
 _bst_bsxfun.m, bst_fileparts.m, bst_fullfile.m, db_template.m, file_exist.m,  
 n_channel_nk.m, in_fopen_nk.m, in_fread_nk.m, in_fread.m, str_date.m, str_split.m_  
-Using for read the .EEG fils, can be find in:  
-https://www.mathworks.com/matlabcentral/fileexchange/64589-brainstorm
+Using for read the .EEG fils, can be find in [Brainstorm](https://www.mathworks.com/matlabcentral/fileexchange/64589-brainstorm).  
 
 
 
